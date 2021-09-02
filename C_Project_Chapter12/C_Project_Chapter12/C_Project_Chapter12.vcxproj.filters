@@ -21,5 +21,11 @@
     <ClCompile Include="ArrayParamAccess.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CallByValueSwap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CallByRefSwap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
