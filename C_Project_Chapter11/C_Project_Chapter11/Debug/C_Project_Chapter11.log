@@ -1,2 +1,8 @@
-﻿  StringArray.c
+﻿  PointerOperationResult.c
+C:\CodeProject\C_Foundation_Project\C_Project_Chapter11\C_Project_Chapter11\PointerOperationResult.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\CodeProject\C_Foundation_Project\C_Project_Chapter11\C_Project_Chapter11\PointerOperationResult.c(10,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\CodeProject\C_Foundation_Project\C_Project_Chapter11\C_Project_Chapter11\PointerOperationResult.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\CodeProject\C_Foundation_Project\C_Project_Chapter11\C_Project_Chapter11\PointerOperationResult.c(12,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\CodeProject\C_Foundation_Project\C_Project_Chapter11\C_Project_Chapter11\PointerOperationResult.c(5,1): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\CodeProject\C_Foundation_Project\C_Project_Chapter11\C_Project_Chapter11\PointerOperationResult.c(6,1): warning C4047: '초기화 중': 'double *'의 간접 참조 수준이 'int'과(와) 다릅니다.
   C_Project_Chapter11.vcxproj -> C:\CodeProject\C_Foundation_Project\C_Project_Chapter11\Debug\C_Project_Chapter11.exe
