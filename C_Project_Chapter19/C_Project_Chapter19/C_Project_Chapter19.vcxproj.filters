@@ -36,5 +36,23 @@
     <ClCompile Include="StructAddMin.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StructImportant.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleIncludePoint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UnionMemAlloc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UnionValAccess.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UsefulUnionAccess.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="EnumTypeTone.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
