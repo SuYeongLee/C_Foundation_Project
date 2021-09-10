@@ -45,5 +45,11 @@
     <ClCompile Include="StructFileWriteRead.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MoveFileReWrPos.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TellFileReWrPos.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
